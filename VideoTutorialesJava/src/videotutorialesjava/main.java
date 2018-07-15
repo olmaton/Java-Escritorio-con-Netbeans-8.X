@@ -7,7 +7,11 @@ import Datos.Conexion;
  * @author mrrecursos.com
  */
 public class main {
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> javan
     public static void main(String[] args) {
        new Principal().setVisible(true);            
         /*Conexion c = new Conexion();

@@ -5,14 +5,22 @@ package videotutorialesjava;
  * @author mrrecursos.com
  */
 public class Acerca extends javax.swing.JDialog {
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> javan
     public Acerca(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
         this.setLocationRelativeTo(this);
         this.setTitle("Acerca de");
     }
+<<<<<<< HEAD
     
+=======
+   
+>>>>>>> javan
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {

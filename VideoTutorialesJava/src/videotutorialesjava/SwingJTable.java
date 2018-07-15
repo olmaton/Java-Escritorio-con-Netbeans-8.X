@@ -6,7 +6,7 @@ import objetos.Pais;
 
 /**
  *
- * @author mrrecursos.com  Básico
+ * @author mrrecursos.com
  */
 public class SwingJTable extends javax.swing.JDialog {
 
